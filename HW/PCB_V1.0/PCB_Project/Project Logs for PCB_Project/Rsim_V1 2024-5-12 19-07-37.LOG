@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SPI_DAC_CS Pin=R1-1
+Removed Pin From Net: NetName=SPI_ADC_CS Pin=R5-1
+Added Pin To Net: NetName=SPI_ADC_CS Pin=R1-1
+Added Pin To Net: NetName=SPI_DAC_CS Pin=R5-1
+Added Room: Name=Rsim_V1.0

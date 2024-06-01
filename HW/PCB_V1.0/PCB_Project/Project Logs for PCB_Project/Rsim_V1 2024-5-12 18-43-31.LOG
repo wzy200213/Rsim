@@ -1,0 +1,850 @@
+Added Component: Designator=C1(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED0603-R-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color Temperature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20191204/C434419_0B955C1F73FF88449D9A795B6FF49070.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SZYY0603R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Configuration"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "615nm~630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìÉ«"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "ÎÞÉ«Í¸Ã÷Í¸¾µ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "yongyu(ÓÀÔ£¹âµç)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SZYY0603R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40¡æ~+85¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "645nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "40mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C434419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SZYY0603R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120¡ã"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X10)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR2X3_CEN)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R1206)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220407/F189C92CC2C10DCB4BF36375122B9E11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "HoLLR1206-1W-5mR-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5m¦¸ ¡À1% 1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Milliohm(ºÁÅ·)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "HoLLR1206-1W-5mR-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "ÌùÆ¬"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "31.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Output Voltage"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2988648"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "HOLLR1206-1W-5MR-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À50ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "²ÉÑùµç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5m¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºñÄ¤µç×è 10k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(ºñÉù)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k¦¸"; VariantName = "[No Variations]"
+Added Component: Designator=U1(VSSOP-8_L3.0-W3.0-P0.65-LS5.0-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/dac8550"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "DAC8550IDGKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "DAC8550IDGKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(µÂÖÝÒÇÆ÷)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "DAC8550IDGKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "VSSOP-8-0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2868131"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "DAC8550IDGKR"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190724/C406721_7F0014C6A9B930583CF1868CC468A0F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AD8065ARTZ-REEL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AD8065ARTZ-REEL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ADI(ÑÇµÂÅµ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AD8065ARTZ-REEL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40¡æ~+85¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(SR)"; Value = "180V/us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C9648"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current Per Channel"; Value = "6.6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AD8065ARTZ-REEL7"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190724/C406721_7F0014C6A9B930583CF1868CC468A0F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AD8065ARTZ-REEL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AD8065ARTZ-REEL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ADI(ÑÇµÂÅµ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AD8065ARTZ-REEL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40¡æ~+85¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(SR)"; Value = "180V/us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C9648"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current Per Channel"; Value = "6.6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AD8065ARTZ-REEL7"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/ref3020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "REF3025AIDBZR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "2.55V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "REF3025AIDBZR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(µÂÖÝÒÇÆ÷)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "REF3025AIDBZR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise - 1/10Hz to 10Hz"; Value = "28uVp-p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise - 10Hz to 10kHz"; Value = "80uVrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40¡æ~+125¡æ@(Ta)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "¹Ì¶¨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Type"; Value = "´®Áª"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C11334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current"; Value = "50uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "REF3025AIDBZR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "75ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À0.2%"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/lm2662"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "LM2663MX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "1.5V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "LM2663MX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(µÂÖÝÒÇÆ÷)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "LM2663MX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40¡æ~+85¡æ@(TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current (Max)"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "¹Ì¶¨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "-5.5V~-1.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C73869"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch tube (built-in/external)"; Value = "ÄÚÖÃ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "75kHz£»10kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LM2663MX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectification"; Value = "·ñ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=U6(VSSOP-10_L3.0-W3.0-P0.50-LS4.9-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/ads1118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ADS1118IDGSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ADS1118IDGSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(µÂÖÝÒÇÆ÷)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ADS1118IDGSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "VSSOP-10-0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C55347"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ADS1118IDGSR_C55347"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-5V Pin=C11-2
+Added Pin To Net: NetName=-5V Pin=U2-2
+Added Pin To Net: NetName=-5V Pin=U3-2
+Added Pin To Net: NetName=-5V Pin=U5-5
+Added Net: Name=-5V
+Added Pin To Net: NetName=5V_IN Pin=C1-2
+Added Pin To Net: NetName=5V_IN Pin=C3-1
+Added Pin To Net: NetName=5V_IN Pin=C6-1
+Added Pin To Net: NetName=5V_IN Pin=C8-1
+Added Pin To Net: NetName=5V_IN Pin=C12-1
+Added Pin To Net: NetName=5V_IN Pin=P1-9
+Added Pin To Net: NetName=5V_IN Pin=P1-10
+Added Pin To Net: NetName=5V_IN Pin=R6-2
+Added Pin To Net: NetName=5V_IN Pin=U1-1
+Added Pin To Net: NetName=5V_IN Pin=U2-5
+Added Pin To Net: NetName=5V_IN Pin=U3-5
+Added Pin To Net: NetName=5V_IN Pin=U4-1
+Added Pin To Net: NetName=5V_IN Pin=U5-8
+Added Pin To Net: NetName=5V_IN Pin=U6-8
+Added Net: Name=5V_IN
+Added Pin To Net: NetName=AIN0 Pin=C13-1
+Added Pin To Net: NetName=AIN0 Pin=R14-1
+Added Pin To Net: NetName=AIN0 Pin=U6-4
+Added Net: Name=AIN0
+Added Pin To Net: NetName=AIN1 Pin=C13-2
+Added Pin To Net: NetName=AIN1 Pin=R16-1
+Added Pin To Net: NetName=AIN1 Pin=U6-5
+Added Net: Name=AIN1
+Added Pin To Net: NetName=AIN2 Pin=C14-1
+Added Pin To Net: NetName=AIN2 Pin=R15-1
+Added Pin To Net: NetName=AIN2 Pin=U6-6
+Added Net: Name=AIN2
+Added Pin To Net: NetName=AIN3 Pin=C14-2
+Added Pin To Net: NetName=AIN3 Pin=R17-1
+Added Pin To Net: NetName=AIN3 Pin=U6-7
+Added Net: Name=AIN3
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R8-1
+Added Pin To Net: NetName=NetC2_1 Pin=R12-2
+Added Pin To Net: NetName=NetC2_1 Pin=U2-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R8-2
+Added Pin To Net: NetName=NetC2_2 Pin=R9-1
+Added Pin To Net: NetName=NetC2_2 Pin=U2-4
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R7-2
+Added Pin To Net: NetName=NetC5_2 Pin=R11-1
+Added Pin To Net: NetName=NetC5_2 Pin=U3-4
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U5-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U5-4
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R6-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=R1-2
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=R2-2
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=R3-2
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=R4-2
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetP1_7 Pin=P1-7
+Added Pin To Net: NetName=NetP1_7 Pin=R5-2
+Added Net: Name=NetP1_7
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U2-3
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=Remote+ Pin=P2-3
+Added Pin To Net: NetName=Remote+ Pin=R15-2
+Added Net: Name=Remote+
+Added Pin To Net: NetName=Remote- Pin=P2-6
+Added Pin To Net: NetName=Remote- Pin=R17-2
+Added Net: Name=Remote-
+Added Pin To Net: NetName=SHUNT_N Pin=P2-1
+Added Pin To Net: NetName=SHUNT_N Pin=P2-2
+Added Pin To Net: NetName=SHUNT_N Pin=R13-2
+Added Pin To Net: NetName=SHUNT_N Pin=R16-2
+Added Net: Name=SHUNT_N
+Added Pin To Net: NetName=SHUNT_P Pin=C5-1
+Added Pin To Net: NetName=SHUNT_P Pin=R7-1
+Added Pin To Net: NetName=SHUNT_P Pin=R13-1
+Added Pin To Net: NetName=SHUNT_P Pin=R14-2
+Added Pin To Net: NetName=SHUNT_P Pin=U3-1
+Added Net: Name=SHUNT_P
+Added Pin To Net: NetName=SPI_ADC_CS Pin=R5-1
+Added Pin To Net: NetName=SPI_ADC_CS Pin=U6-2
+Added Net: Name=SPI_ADC_CS
+Added Pin To Net: NetName=SPI_DAC_CS Pin=R1-1
+Added Pin To Net: NetName=SPI_DAC_CS Pin=U1-5
+Added Net: Name=SPI_DAC_CS
+Added Pin To Net: NetName=SPI_MISO Pin=R4-1
+Added Pin To Net: NetName=SPI_MISO Pin=U6-9
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=R2-1
+Added Pin To Net: NetName=SPI_MOSI Pin=U1-7
+Added Pin To Net: NetName=SPI_MOSI Pin=U6-10
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=SPI_SCK Pin=R3-1
+Added Pin To Net: NetName=SPI_SCK Pin=U1-6
+Added Pin To Net: NetName=SPI_SCK Pin=U6-1
+Added Net: Name=SPI_SCK
+Added Pin To Net: NetName=VOUT_1 Pin=C4-1
+Added Pin To Net: NetName=VOUT_1 Pin=R12-1
+Added Pin To Net: NetName=VOUT_1 Pin=U3-3
+Added Net: Name=VOUT_1
+Added Pin To Net: NetName=VOUT_D Pin=R10-1
+Added Pin To Net: NetName=VOUT_D Pin=U1-3
+Added Pin To Net: NetName=VOUT_D Pin=U1-4
+Added Net: Name=VOUT_D
+Added Pin To Net: NetName=VREF Pin=C9-1
+Added Pin To Net: NetName=VREF Pin=C10-1
+Added Pin To Net: NetName=VREF Pin=R9-2
+Added Pin To Net: NetName=VREF Pin=U1-2
+Added Pin To Net: NetName=VREF Pin=U4-2
+Added Net: Name=VREF
+Added Class: Name=Rsim_V1.0
+Added Room: Name=Rsim_V1.0

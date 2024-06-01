@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SPI_MOSI Pin=R2-1
+Removed Pin From Net: NetName=SPI_MISO Pin=R4-1
+Added Pin To Net: NetName=SPI_MISO Pin=R2-1
+Added Pin To Net: NetName=SPI_MOSI Pin=R4-1
+Added Room: Name=Rsim_V1.0
